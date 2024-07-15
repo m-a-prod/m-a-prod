@@ -22,4 +22,4 @@ Here are a few projects I'm proud of:
 - 💬 Telegram: [m_a_prod](https://t.me/m_a_prod/)
 - 🌐 Website: [botprod.ru](https://www.botprod.ru/)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=m-a-prod&show_icons=true&locale=en)
+![My Stats](https://github-readme-stats.vercel.app/api?username=m-a-prod&show_icons=true&locale=ru)
