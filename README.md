@@ -18,7 +18,6 @@ Here are a few projects I'm proud of:
 
 ## Get in Touch
 
-- 📧 Email: m_adaev_v@bk.ru
 - 💬 Telegram: [m_a_prod](https://t.me/m_a_prod/)
 - 🌐 Website: [botprod.ru](https://www.botprod.ru/)
 
