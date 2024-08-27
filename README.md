@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💼 Founder of [BotProd](https://www.botprod.ru/).
+- 💼 Founder of [BOTPROD](https://www.botprod.ru/).
 - 🚀 Constantly exploring new technologies and their practical applications.
 - 🎓 Passionate about leveraging technology to enhance learning experiences.
 - 💻 I write code in Java and Python.
