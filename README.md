@@ -1,6 +1,5 @@
 <p align="center">
-  <b>Full-Stack Engineer · Network Engineer · Reverse Engineer</b><br>
-  <sub>Tbilisi, Georgia</sub>
+  <b>Full-Stack Engineer · Network Engineer · Reverse Engineer</b>
 </p>
 
 <p align="center">
