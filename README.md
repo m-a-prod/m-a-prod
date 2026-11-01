@@ -1,5 +1,3 @@
-<h1 align="center">maprod</h1>
-
 <p align="center">
   <b>Full-Stack Engineer · Network Engineer · Reverse Engineer</b><br>
   <sub>Tbilisi, Georgia</sub>
