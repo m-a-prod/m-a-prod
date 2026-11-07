@@ -23,7 +23,7 @@ My work sits where networking, backend development and reverse engineering meet.
 | --- | --- | --- |
 | [**DUORAY**](https://github.com/m-a-prod/DUORAY) | Cross-platform Xray-core client focused on DNS leak protection | Rust · Slint |
 | [**DUOTUN**](https://github.com/m-a-prod/DUOTUN) | Routes all host traffic through a SOCKS5 proxy via TUN with system-level DNS leak blocking | Rust |
-
+| [**DUORAY-MOBILE**](https://github.com/m-a-prod/DUORAY-Mobile) |Same DUORAY but for Android | Rust · Slint · Kotlin |
 ## Stack
 
 <p>
